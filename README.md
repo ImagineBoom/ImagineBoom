@@ -1,3 +1,5 @@
+![](https://www.calligrapher.ai/)
+![ImagineBoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImagineBoom&theme=buefy&show_icons=true)
 ### Hi there 👋
 
 <!--
