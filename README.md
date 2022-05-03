@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImagineBoom&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy&hide_title=true" />
   </a>
   <a href="https://github.com/ImagineBoom/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineBoom&layout=compact&hide=TeX&theme=vue&hide_border=false&langs_count=6&card_width=250" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineBoom&layout=compact&hide=TeX&theme=vue&hide_border=true&langs_count=8&card_width=250&hide_title=true" />
   </a> 
 </div>
 <h1>
