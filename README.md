@@ -6,7 +6,7 @@
 <div style="font-size:14px; color:#FF0000;">
 <div align="center">
   
-| <a href="https://github.com/ImagineBoom/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImagineBoom&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ImagineBoom's github stats" /></a> | <a href="https://github.com/ImagineBoom/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineBoom&layout=compact&hide=TeX&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ImagineBoom/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImagineBoom&show_icons=true&include_all_commits=true&theme=aura" alt="ImagineBoom's github stats" /></a> | <a href="https://github.com/ImagineBoom/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineBoom&layout=compact&hide=TeX&theme=blue-green&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 </div>
