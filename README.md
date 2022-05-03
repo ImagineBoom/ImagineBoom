@@ -12,8 +12,8 @@
   </a> 
 </div>
 
-<hr>
-
+<h2>
+</h2>
 <div>
   <a href="https://github.com/ImagineBoom/">
     <img src="https://readme-typing-svg.herokuapp.com?duration=4000&font=Mrs+Sheppards&size=30&color=8E44AD&background=2ECC7100&center=true&vCenter=true&width=1000&height=60&lines=May+your+new+year+be+filled+with+abundance+of+smiles+and+happiness!">
